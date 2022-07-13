@@ -29,7 +29,8 @@ git push origin main
 3. git add .
 4. git commit -m 'comment' (все добавлено в локальный репозиторий)
 5. git remote add origin <url>
-6. git push origin main
+6. git push -u origin main
+
 
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
